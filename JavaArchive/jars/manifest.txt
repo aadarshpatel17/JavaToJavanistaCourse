@@ -1,2 +1,9 @@
 Main-Class: com.test.EntryPoint
+Specification-Version: 1.0
+Specification-Vendor: AadarshPatel
+Implementation-Title: My Application
+Implementation-Version: build01
+Implementation-Vendor: AadarshPatel
+Class-Path: lib/log4j-api-2.14.0.jar lib/log4j-core-2.14.0.jar
+
 
