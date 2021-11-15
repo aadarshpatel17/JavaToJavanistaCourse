@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jar-multiPackage">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JavaArchive/jars/jar-multiPackage.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
